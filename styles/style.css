@@ -9,7 +9,7 @@ body{
     margin: 0 auto;
     background-color: #fcca3d;
     padding: 0 20px 20px 20px;
-    border: 7px dashed #000;
+    border: 7px solid #000;
     border-radius: 20px;
 }
 a{
@@ -37,4 +37,15 @@ img{
     height: auto;
     display: block;
     margin: 0 auto;
+}
+button{
+    display: block;
+    margin: 0 auto;
+    width: 27%;
+    height: 27px;
+    font-weight: 600;
+    color: #000;
+    background-color: rgb(245, 0, 0);
+    border: 2px solid #000;
+    border-radius: 13px;
 }
