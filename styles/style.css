@@ -2,14 +2,14 @@ html{
     scroll-behavior: smooth;
     font-size: 10px;
     font-family: 'Kiwi Maru', serif;
-    background-color: ;
+    background-color: rgb(223, 0, 0);
 }
 body{
     max-width: 600px;
     margin: 0 auto;
-    background-color: ;
+    background-color: #fcca3d;
     padding: 0 20px 20px 20px;
-    border: 4px dashed #000;
+    border: 7px dashed #000;
     border-radius: 20px;
 }
 a{
@@ -18,7 +18,6 @@ a{
 }
 a:hover{
     font-weight: 600;
-    color: #000;
 }
 h1{
     font-size: 50px;
